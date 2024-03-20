@@ -33,17 +33,6 @@ public class DataGenerator {
         String name = DataGenerator.generateName("ru");
         String phone = DataGenerator.generatePhone("ru");
 
-        public String getCity() {
-            return city;
-        }
-
-        public String getName() {
-            return name;
-        }
-
-        public String getPhone() {
-            return phone;
-        }
     }
 
 }
